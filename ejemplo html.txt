@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sistema ABCC</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width = device-width">
+
+	<link rel="stylesheet" type="text/css" href="estilos/principal.css">
+	<link rel="stylesheet" type="text/css" href="estilos/font-awesome.css">
+</head>
+<body>
+	<nav class="menu_estatico">
+		<ul>
+			<li> <a href="#">Inicio</a>
+			</li>
+			<li><a href="#">Rgistro</a></li>
+			<li><a href="#">Inicciar Sesion</a> </li>
+		</ul>
+		
+
+	</nav>
+
+	<header>
+		<div class="container">
+			<div class="logo">
+				
+			</div>
+			<nav class="menu">
+				
+			</nav>
+		</div>
+	</header>
+	<section class="slider">
+		
+	</section>
+
+	<section class="container"><!-- parte central o principal-->
+		
+	</section>
+
+	<footer>
+		<p>Instituto Tecnologico Superior de Jerez</p>
+		<p>Libramiento Fresnillo-Tepetongo S/N fraccionamiento Los Cardos</p>
+		<p>Jerez de Garcia Salinas</p>
+		<p>C.P 99360 - Telefono: (494) 9-45-12-26</p>
+	</footer>
+
+</body>
+</html>

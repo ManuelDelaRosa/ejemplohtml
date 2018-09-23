@@ -1,0 +1,26 @@
+.menu_estatico ul{
+	/*border: 1px solid black;*/
+	list-style: none;
+	background-color: black;
+	margin: 0px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.menu_estatico ul li{
+	/*border: 1px solid black;*/
+	display: inline;
+	color: white;
+	font-size: 30px;
+	font-family: Comic Sans, Arial, monospace;
+	padding-right: 15px;
+} 
+
+.menu_estatico a{
+	text-decoration: none;
+	color: white;
+}
+
+.menu_estatico a:hover, li:hover{
+	background-color: orange;
+}
